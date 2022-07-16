@@ -8,3 +8,4 @@
 - 🦊 Pronouns: he/him 
 - ⚡ Fun fact: I'm a photographer and I shoot mostly on film! 📷
 
+https://api.badgr.io/public/assertions/YPKIujcKTWen5tUNjq2MGQ?identity__email=jaredtookthis%40gmail.com
